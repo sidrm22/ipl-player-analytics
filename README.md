@@ -9,7 +9,8 @@
 
 ![IPL Analytics Dashboard](charts/01_batsman_value.png)
 
-📊 **[View Dashboard Report(PDF)](IPL_Analytics_Dashboard_Siddharth.pdf)**
+📊 **[View Dashboard Report(PDF)]([IPL_Analytics_Dashboard_Siddharth.pdf](https://github.com/sidrm22/ipl-player-analytics/blob/main/ipl_dashboard.pdf))**
+📁 **[Open Power BI Report(pbix)]([IPL_Analytics_Dashboard_Siddharth.pbit](https://github.com/sidrm22/ipl-player-analytics/blob/main/ipl_dashboard.pdit))**
 
 ---
 
