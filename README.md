@@ -9,7 +9,7 @@
 
 ![IPL Analytics Dashboard](charts/01_batsman_value.png)
 
-📊 **[View Full Interactive Dashboard (PDF)](IPL_Analytics_Dashboard_Siddharth.pdf)**
+📊 **[View Dashboard Report(PDF)](IPL_Analytics_Dashboard_Siddharth.pdf)**
 
 ---
 
